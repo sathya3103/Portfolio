@@ -23,6 +23,10 @@ html {
 }
 
 body {
+    background-image: url('Images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-color: var(--background-dark);
     color: var(--text-light);
     line-height: 2;
